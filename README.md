@@ -1,7 +1,3 @@
-Absolutely, here's a README.md file based on your description:
-
----
-
 # Product List with Infinite Scroll and Intersection Observer Animation
 
 ![Website Preview](https://i.ibb.co/t3W3hJC/animatef-gif-for-readme.gif)
