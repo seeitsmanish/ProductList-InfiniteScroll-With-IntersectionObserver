@@ -1,6 +1,6 @@
 # Product List with Infinite Scroll and Intersection Observer Animation
 
-![Website Preview](https://i.ibb.co/t3W3hJC/animatef-gif-for-readme.gif)
+![Website Preview](https://i.ibb.co/LgGDMDS/Screen-Recording-2024-04-13-at-2-10-50-AM-Adobe-Express-2.gif)
 
 This website showcases the usage of Intersection Observer for fadeIn animations on product cards and implements infinite scrolling. It's built using Next.js and Tailwind CSS.
 
